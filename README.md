@@ -1,4 +1,4 @@
-# Pre-Modelagem_Part1
+# Pre-Modelagem
 Atividade do módulo 14 do curso de Cientista de Dados da Ebac.
 
 A atividade consiste em realizar o tratamento e a limpeza de uma base de dados de churn, aplicando conceitos fundamentais de preparação de dados para análise e modelagem.
